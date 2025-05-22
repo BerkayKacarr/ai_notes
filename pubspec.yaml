@@ -1,0 +1,21 @@
+name: ai_enhanced_notes
+description: A new Flutter project with AI-enhanced note-taking features.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.13.0
+  cloud_firestore: ^4.7.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

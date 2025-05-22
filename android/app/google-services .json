@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260637384842",
+    "project_id": "enhanced-2ad54",
+    "storage_bucket": "enhanced-2ad54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260637384842:android:0e6673a883133fc6130d73",
+        "android_client_info": {
+          "package_name": "com.example.ai_enhanced_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyurMZrODd4S7Oxs6evnx5dMMpddaA_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
